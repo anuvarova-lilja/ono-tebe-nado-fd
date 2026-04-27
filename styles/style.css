@@ -4,7 +4,7 @@
     justify-items: stretch;
     align-items: center;
     max-width: 1340px;
-    padding: 90px 50px;
+    padding: 95px 50px;
     grid-auto-flow: row;
 }
 
@@ -292,7 +292,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     align-items: start;
-    padding: 185px 50px 0 50px;
+    padding: 185px 50px 82px 50px;
     grid-auto-flow: row;
 }
 
